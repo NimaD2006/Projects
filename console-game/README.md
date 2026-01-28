@@ -7,7 +7,7 @@
 1. Open a terminal/command prompt
 2. Copy the following codes in cmd:
 ```bash
-cd "FOLDER ADDRESS"
+cd "<folder-path>"
 ```
 ```bash
 g++ -std=c++11 -Iinclude src/main.cpp src/methods.cpp -o main.exe
@@ -36,4 +36,5 @@ main.exe
 ## Creators
 
 - Nima Dehghan https://github.com/NimaD2006
+
 - Ehsan Rabaani https://github.com/ehsanace86-dot
